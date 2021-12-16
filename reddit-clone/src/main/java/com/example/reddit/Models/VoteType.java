@@ -1,5 +1,5 @@
 package com.example.reddit.Models;
 
-public class VoteType {
+public interface VoteType {
 
 }
